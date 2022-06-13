@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+
+
+	<color name="lime_500">#CDDC39</color>
+	<color name="lime_700">#AFB42B</color>
+	<color name="blue_gray_500">#607D8B</color>
+	<color name="blue_gray_700">#455A64</color>
+</resources>
